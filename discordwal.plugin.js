@@ -1,6 +1,6 @@
 /**
  * @name Discord-Auto-Pywal
- * @version 0.0.01
+ * @version 0.0.0
  * @updateUrl https://raw.githubusercontent.com/AlkyoneAoide/discord-pywal/main/discordwal.plugin.js
  * @description A helper plugin for the associated theme that
  * will refresh the theme whenever pywal is used to refresh
