@@ -12,3 +12,11 @@
  * @website https://github.com/AlkyoneAoide/discord-pywal/
  * @source https://github.com/AlkyoneAoide/discord-pywal/
  */
+
+function start() {
+	console.log("started")
+}
+
+function stop() {
+	console.log("stopped")
+}
